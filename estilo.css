@@ -8,6 +8,7 @@ body {
     font-family: Verdana; 
     margin-top: 5px;
      }
+
 /*Inicio do header*/
 
 #header {
@@ -45,9 +46,21 @@ ul#nav a.ativa {
     float:left;
     position: absolute;
     margin-top: 10px;
-    margin-left: 200px;
+    margin-left: -700px;
     width: 80px;
     height: 80px;}
+
+.botão img {
+    width: 50px;
+    height: 50px;
+    margin-left: 60px;
+    margin-top: 25px;}
+
+.botão2 img {
+    width: 50px;
+    height: 50px;
+    margin-left: 60px;
+    margin-top: 25px;}
 
 /*Fim do header*/
 
@@ -369,7 +382,8 @@ ul#nav a.ativa {
     margin-bottom: 10px;
     border: 1px solid #ccc;
     border-radius: 5px;
-    font-size: 16px;}
+    font-size: 16px;
+    resize: none;}
   
 .contato input[type="submit"] {
     background-color: #007bff;
