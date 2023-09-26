@@ -59,8 +59,8 @@ ul#nav a.ativa {
 
 
 .botão2 img {
-    width: 60px;
-    height: 60px;
+    width: 50px;
+    height: 50px;
     margin-left: 60px;
     margin-top: 25px;
     position: absolute;}
@@ -215,7 +215,7 @@ ul#nav a.ativa {
 
 .titulo5 {
     position: absolute;
-    margin-top: 45px;
+    margin-top: 20px;
     margin-left: 105px;
              
     text-align:center;
@@ -232,7 +232,7 @@ ul#nav a.ativa {
 
 .titulo6 {
     position: absolute;
-    margin-top: 30px;
+    margin-top: 20px;
     margin-left: 600px;
              
     text-align:center;
@@ -248,7 +248,7 @@ ul#nav a.ativa {
 
 .titulo7 {
     position: absolute;
-    margin-top: 40px;
+    margin-top: 20px;
     margin-left: 1110px;
                      
     text-align:center;
@@ -265,7 +265,7 @@ ul#nav a.ativa {
 
 .texto5 {
     position: absolute;
-    margin-top: 100px;
+    margin-top: 75px;
     margin-left: 70px;
         
     text-align: justify;
@@ -282,7 +282,7 @@ ul#nav a.ativa {
 
 .texto6 {
     position: absolute;
-    margin-top: 85px;
+    margin-top: 75px;
     margin-left: 565px;
             
     text-align: justify;
@@ -299,7 +299,7 @@ ul#nav a.ativa {
 
 .texto7 {
     position: absolute;
-    margin-top: 90px;
+    margin-top: 75px;
     margin-left: 1075px;
             
     text-align: justify;
@@ -315,11 +315,11 @@ ul#nav a.ativa {
 
 .mochila1 {
     position: absolute;
-    margin-top: 320px;
-    margin-left: 100px;
+    margin-top: 285px;
+    margin-left: 115px;
                         
     display: inline-block;
-    width: 280px;
+    width: 250px;
                     
     padding: 20px;
     border-radius: 20px;
@@ -328,11 +328,11 @@ ul#nav a.ativa {
 
 .mochila2 {
     position: absolute;
-    margin-top: 320px;
-    margin-left: 600px;
+    margin-top: 300px;
+    margin-left: 620px;
                         
     display: inline-block;
-    width: 280px;
+    width: 240px;
                         
     padding: 20px;
     border-radius: 20px;
@@ -341,11 +341,11 @@ ul#nav a.ativa {
 
 .mochila3 {
     position: absolute;
-    margin-top: 320px;
-    margin-left: 1110px;
+    margin-top: 303px;
+    margin-left: 1130px;
                                 
     display: inline-block;
-    width: 280px;
+    width: 240px;
                             
     padding: 20px;
     border-radius: 20px;
@@ -444,7 +444,7 @@ ul#nav a.ativa {
 
 #nav { 
     margin-left: 200px;	
-    margin-top:70px;	  }
+    margin-top:70px;}
 
 .logo {
     margin-top: 20px;
