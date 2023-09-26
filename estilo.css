@@ -453,16 +453,18 @@ ul#nav a.ativa {
     height: 150px;}
 
 .botão img {
-    width: 300px;
+    width: 100px;
     height: 100px;
-    margin-left: 10px;
-    margin-top: 50px;}
+    margin-left: 30px;
+    margin-top: 50px;
+    position: absolute;}
 
 .botão2 img {
-    width: 300px;
+    width: 100px;
     height: 100px;
-    margin-left: 10px;
-    margin-top: 50px;}
+    margin-left: 30px;
+    margin-top: 50px;
+    position: absolute;}
 
 #footer{
     height: 140px;}
